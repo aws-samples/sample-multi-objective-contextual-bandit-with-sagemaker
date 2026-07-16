@@ -1,0 +1,11 @@
+numpy>=1.24
+boto3>=1.28
+
+# For the guided notebook (notebooks/walkthrough.ipynb). Optional: the notebook
+# runs without matplotlib (it prints text summaries instead of plots).
+# jupyter>=1.0
+# matplotlib>=3.7
+
+# For deploy/run_processing_job.py (launching on SageMaker AI). Not needed to
+# run the local demo or tests.
+# sagemaker>=2.200
