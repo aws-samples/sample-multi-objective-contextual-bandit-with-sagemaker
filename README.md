@@ -113,7 +113,7 @@ Li, Chu, Langford, Schapire (2010),
 
 ## Security
 
-See [CONTRIBUTING](CONTRIBUTING.md) for more information.
+See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
 ## License
 
